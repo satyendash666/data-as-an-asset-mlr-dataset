@@ -1,2 +1,9 @@
-# data-as-an-asset-mlr-dataset
-This repository contains the MLR dataset for the study “Data as an Asset: Economic Traits, Market Dynamics, and Monetization Challenges.” The Excel file lists academic and grey-literature sources with attributes such as year, venue, method, pricing model, market structure, and themes to support transparency and reproducibility.
+# Data as an Asset - MLR Dataset
+
+This repository contains the multivocal literature review (MLR) dataset used in the paper 
+"Data as an Asset: Economic Traits, Market Dynamics, and Monetization Challenges".
+
+The Excel sheet includes bibliographic details, valuation and pricing models, data market
+characteristics, and thematic classifications extracted from both academic and grey literature.
+
+The dataset is shared to support transparency, reproducibility, and future research.
